@@ -1,9 +1,9 @@
-
-#### Hello, this is Bong Soo-yeon. I'm studying hard for a developer 👋
+#### Hello, I am  Su-yeon Bong. I'm studying hard for a developer 👋 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbongsuyeon&count_bg=%23FFD23D&title_bg=%23555555&icon=smugmug.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
- 
+
 ### 🐣Carrer
+
 | Type                                               | Contents                                                     | Date                | Organiziaion                                          |
 | -------------------------------------------------- | ------------------------------------------------------------ | ------------------- | ----------------------------------------------------- |
 | 🎓Education                                         | Computer Engineering  Bachelor                               | 2017.03~2021.02     | Sejong University                                     |
@@ -13,9 +13,15 @@
 | 👨‍💻Public Data Youth Intern                         | Public data quality diagnosis (DB), open work                | 2020.09.07 ~ 12. 24 | 행정안전부·한국지능정보사회진흥원[한국건강가정진흥원] |
 | 👨‍💻Summer Intern                                    | Overseas electronic component data collection and web crawling | 2019.07.29 ~ 08.23  | ICBANQ                                                |
 
-Overseas Volunteer Activities
 
-                                            
+
+### 🌎Global competency
+
+| Type                                                    | Where                                              | When                                  | Contents                                                     | Organiziaion                                 |
+| ------------------------------------------------------- | -------------------------------------------------- | ------------------------------------- | ------------------------------------------------------------ | -------------------------------------------- |
+| 2020 International Winter Program for Sejong University | In San Diego State University at San Diego, U.S.A. | from January 18 to February 18, 2020. | To learn about culture by taking an open course class at an American university and experiencing ENGINEERING LAB | San Diego State .Univ & Sejong.Univ          |
+| Volunteer Activities                                    | Kazakhstan                                         | from June 29 to  July 22, 2019        | Education service-Korean language education, health And hygiene education, physical education, music education, etc. | Pacific Asia Association [World Friends PAS] |
+
 
 <!--
 **bongsuyeon/bongsuyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,4 +36,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
+
